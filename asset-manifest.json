@@ -1,11 +1,11 @@
 {
   "main.css": "static/css/main.fe6e7af7.css",
   "main.css.map": "static/css/main.fe6e7af7.css.map",
-  "main.js": "static/js/main.f93cb8aa.js",
-  "main.js.map": "static/js/main.f93cb8aa.js.map",
+  "main.js": "static/js/main.e7f453cb.js",
+  "main.js.map": "static/js/main.e7f453cb.js.map",
   "static/media/MainCover.png": "static/media/MainCover.1b2ce6a6.png",
   "static/media/MainFace.png": "static/media/MainFace.7534aa04.png",
-  "static/media/encryption.png": "static/media/encryption.ef12346e.png",
+  "static/media/encryption.png": "static/media/encryption.d68fee7b.png",
   "static/media/pic0.png": "static/media/pic0.bfcb2761.png",
   "static/media/pic1.png": "static/media/pic1.03bf5b90.png",
   "static/media/pic2.png": "static/media/pic2.add1ab51.png",
@@ -13,5 +13,6 @@
   "static/media/pic4.png": "static/media/pic4.0828ceed.png",
   "static/media/pic5.png": "static/media/pic5.ee44bb0a.png",
   "static/media/pic6.png": "static/media/pic6.37592e60.png",
-  "static/media/talon_resume.pdf": "static/media/talon_resume.cfe07a10.pdf"
+  "static/media/talon_resume.pdf": "static/media/talon_resume.cfe07a10.pdf",
+  "static/media/wpm.png": "static/media/wpm.3501b6d1.png"
 }
